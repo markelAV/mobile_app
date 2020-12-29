@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T16:52:58.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZzLqzVAJbWTI_-kxY24j" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T17:01:26.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6c7pi1I5f0j8VmLfcfAd" version="14.1.3" type="github">
   <diagram id="ctLSFJHxjDkwSfDpcYS6" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -288,6 +288,20 @@
         </mxCell>
         <mxCell id="WLGGtKFyTOPY85hE-rdN-15" value="Развитие персональных компьютеров в 1970х&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="715" y="1030" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WLGGtKFyTOPY85hE-rdN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WLGGtKFyTOPY85hE-rdN-19" target="GPuec8PBNYC8p6L_rXQl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLGGtKFyTOPY85hE-rdN-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="980" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WLGGtKFyTOPY85hE-rdN-20" value="Необходимость создания нового, более удобного интерфейса управления данными" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1015" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
